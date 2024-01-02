@@ -2,7 +2,7 @@
 
 🌍 Located in Pakistan 🇵🇰, I'm on a mission to make the world a better place using my code.
 
-## 🛠️ Full Stack Dev @ CodeSee 🇺🇸 United States
+## 🛠️ Full Stack Dev @ Remotebase 🇺🇸 United States
 
 - 💻 Frontend Enthusiast: I specialize in frontend technologies and enjoy crafting user-friendly interfaces that users love.
 
